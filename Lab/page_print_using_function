@@ -1,0 +1,15 @@
+#include <stdio.h>
+struct book{
+	char name;
+	int page;
+};
+void printpage();
+int main(){
+struct book b1,b2;
+printf("Enter The Contents Page and Name: \n");
+scanf("%d %c",&b1.page,&b1.name);
+return 0;
+}
+void printpage(int p){
+printf("Page: %d \n",p);
+}

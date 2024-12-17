@@ -1,0 +1,3 @@
+Hello World
+File Handling in C is fun.
+This Demonstrates ftell, fseek and rewind.
